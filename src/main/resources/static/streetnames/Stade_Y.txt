@@ -1,0 +1,1 @@
+<?xml version='1.0' encoding='ISO-8859-1' standalone='yes'?><streets><table>		<tr><th>Straße <span>PLZ, Ort, Stadtteil</span></th></tr><tr><td class="strasse"><a href="http://onlinestreet.de/strassen/Ystadweg.Stade.239692.html">Ystadweg<span> 21682 Stade</span></a></td></tr></table>        <!--google_ad_section_end--></streets>

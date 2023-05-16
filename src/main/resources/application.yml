@@ -1,0 +1,18 @@
+spring:
+  datasource:
+    driver-class-name: org.mariadb.jdbc.Driver
+    username: root
+    password: admin
+    url: jdbc:mariadb://localhost:3306/k8s_verein
+  jpa:
+    properties:
+      hibernate:
+        '[dialect:org.hibernate.dialect]': MariaDB103Dialect
+    hibernate:
+      ddl-auto: update
+    show-sql: false
+    
+logging:
+  level:
+    root: error
+    '[de.woock]': debug
